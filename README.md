@@ -12,3 +12,9 @@ Példa bemenetre :<br>
 2<br>
 0 0<br>
 1 1<br>
+
+Eredmény :<br>
+0
+0
+0
+0
